@@ -1,7 +1,12 @@
 li {
   padding: 5px;
   margin: 5px;
-  background: #faebd7;
+ 
+}
+
+body {
+    background-image: url("https://i.stack.imgur.com/BFTkQ.jpg");
+    background-color: #cccccc;
 }
 
 .label {
@@ -11,9 +16,55 @@ li {
 .create-update-form {
   padding: 5px;
   margin: 5px;
-  background: aqua;
+
 }
 
 .form-group {
   margin-bottom: 5px;
 }
+
+h1 {
+
+	
+	text-align: center;
+}
+
+h2 {
+
+	
+	text-align: center;
+}
+
+ul {
+
+	
+}
+
+#burgerList {
+
+	
+
+}	
+
+#burgerPanel {
+
+	background-color: lightgreen;
+}
+
+#eatenPanel {
+
+	background-color: pink;
+}
+
+#createPanel {
+
+	background-color: lightblue;
+}
+
+#burgerPic {
+
+	width:200px;
+	margin-left: 40%
+}
+
+
